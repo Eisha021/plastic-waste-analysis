@@ -1,9 +1,10 @@
 # Plastic Waste Data Analysis & Visualization
 
 ## Overview
-This project analyzes global plastic waste generation and recycling rates
-using Python. It includes Pakistan as a case study and highlights the need
-for sustainable waste management and circular economy solutions.
+This project analyzes plastic waste generation and recycling rates
+across selected countries using Python. The analysis highlights
+global disparities in waste management and emphasizes the importance
+of sustainable and circular waste management practices.
 
 ## Tools Used
 - Python
@@ -12,11 +13,12 @@ for sustainable waste management and circular economy solutions.
 - Google Colab
 
 ## Key Features
-- Plastic waste comparison across countries
+- Comparison of plastic waste generation across countries
 - Recycling vs mismanaged waste analysis
-- Clear visualizations
+- Clear data visualizations
 - Sustainability-focused conclusions
 
 ## How to Run
-Open the notebook using Google Colab and run all cells.
+Open the notebook in Google Colab and run all cells.
+
 
