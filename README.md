@@ -18,7 +18,6 @@ of sustainable and circular waste management practices.
 - Clear data visualizations
 - Sustainability-focused conclusions
 
-## How to Run
-Open the notebook in Google Colab and run all cells.
+
 
 
